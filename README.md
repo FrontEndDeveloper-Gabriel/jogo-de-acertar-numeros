@@ -12,4 +12,4 @@
 
 # <h4>Requisitos:
 º Ter um editor de texto na máquina; <br>
-º Ter o IDLE Python instalado na máquina.</h4>
+º Ter o Visual Studio Code ou o IDLE Python instalado na máquina.</h4>
