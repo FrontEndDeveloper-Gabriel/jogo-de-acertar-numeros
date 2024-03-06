@@ -5,7 +5,7 @@ for c in n:
     numero_adversario = int(input("Número adversário: "))
     
 
-    if randomico2 == meu_numero and numero_adversario == randomico:
+    if randomico == meu_numero and numero_adversario == randomico:
         c = c - 1
         print(f"Parabéns! Ambos os jogadores acertaram o número {randomico}!")
         break
