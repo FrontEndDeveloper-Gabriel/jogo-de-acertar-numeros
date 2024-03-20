@@ -1,7 +1,11 @@
 # CÓDIGO EM PYTHON - JOGO DE ACERTO
 
+# <h2>O QUE É?
+<strong>Introdução:</strong> Um jogo interativo onde 2 jogadores vão disputar um contra o outro para ver quem vai conseguir acertar um determinado número aleatoriamente. <br>
+</h2>
+
 # <h3>COMO FUNCIONA?
-<strong>Introdução:</strong> O jogo é disputado por 2 jogadores e consiste em acertar um determinado número que aparece de forma aleatória de 1 a 10; <br>
+<strong>Manual:</strong> O jogo é disputado por 2 jogadores e consiste em acertar um determinado número que aparece de forma aleatória de 1 a 10; <br>
 <strong>Chances:</strong> Os jogadores terão 3 chances; <br>
 <strong>Vitória:</strong> Há quatro alternativas: <br>
 ㅤㅤㅤㅤㅤㅤㅤㅤ1) Caso o número aleatório <strong>seja igual a do jogador 1 e 2</strong>, ambos ganharão; <br>
@@ -12,4 +16,5 @@
 
 # <h4>Requisitos:
 º Ter um editor de texto na máquina; <br>
-º Ter o Visual Studio Code ou o IDLE Python instalado na máquina.</h4>
+º Ter o Visual Studio Code ou o IDLE Python instalado na máquina; <br>
+º Acessar Google Colab e executar em um novo notebook. </h4>
