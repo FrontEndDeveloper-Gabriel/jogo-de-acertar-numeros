@@ -15,6 +15,6 @@ Um jogo interativo onde 2 jogadores vão disputar um contra o outro para ver que
 
 
 # <h4>Requisitos:
-º Ter um editor de texto na máquina; <br>
-º Ter o Visual Studio Code ou o IDLE Python instalado na máquina; <br>
-º Acessar o <strong><a href="https://colab.research.google.com/">Google Colab</a></strong> e executar em um novo notebook. </h4>
+● Ter um editor de texto na máquina; <br>
+● Ter o Visual Studio Code ou o IDLE Python instalado na máquina; <br>
+● Acessar o <strong><a href="https://colab.research.google.com/">Google Colab</a></strong> e executar em um novo notebook. </h4>
