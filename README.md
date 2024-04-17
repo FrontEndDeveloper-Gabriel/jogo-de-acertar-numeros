@@ -1,10 +1,10 @@
-CÓDIGO EM PYTHON - JOGO DE ACERTO
+# CÓDIGO EM PYTHON - JOGO DE ACERTO
 
-<h2>Introdução:</h2>
+# <h2>Introdução:</h2>
 Um jogo interativo onde 2 jogadores vão disputar um contra o outro para ver quem vai conseguir acertar um determinado número aleatoriamente. <br>
 
 
-<h3>COMO FUNCIONA?</h3>
+# <h3>COMO FUNCIONA?</h3>
 <strong>Manual:</strong> O jogo é disputado por 2 jogadores e consiste em acertar um determinado número que aparece de forma aleatória de 1 a 10; <br>
 <strong>Chances:</strong> Os jogadores terão 3 chances; <br>
 <strong>Vitória:</strong> Há quatro alternativas: <br>
