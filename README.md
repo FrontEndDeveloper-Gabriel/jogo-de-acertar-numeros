@@ -1,6 +1,6 @@
 # CÓDIGO EM PYTHON - JOGO DE ACERTO
 
-INTRODUÇÃO
+<h2>INTRODUÇÃO</h2> <BR>
 Um jogo interativo onde 2 jogadores vão disputar um contra o outro para ver quem vai conseguir acertar um determinado número aleatoriamente.
 
 # <h3>COMO FUNCIONA?</h3>
