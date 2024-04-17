@@ -4,7 +4,7 @@
 Um jogo interativo onde 2 jogadores vão disputar um contra o outro para ver quem vai conseguir acertar um determinado número aleatoriamente.
 
 
-#<h3>Como funciona?</h3> 
+# <h3>Como funciona?</h3> 
 <strong>Manual:</strong> O jogo é disputado por 2 jogadores e consiste em acertar um determinado número que aparece de forma aleatória de 1 a 10; <br>
 <strong>Chances:</strong> Os jogadores terão 3 chances; <br>
 <strong>Vitória:</strong> Há quatro alternativas: <br>
