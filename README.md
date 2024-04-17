@@ -1,4 +1,4 @@
-# CÓDIGO EM PYTHON - JOGO DE ACERTO
+CÓDIGO EM PYTHON - JOGO DE ACERTO
 
 <h2>Introdução:</h2>
 Um jogo interativo onde 2 jogadores vão disputar um contra o outro para ver quem vai conseguir acertar um determinado número aleatoriamente. <br>
