@@ -4,7 +4,8 @@
 
 ## 📖 About
 ```ascii
-> An interactive game where two players compete against each other to see who can guess a randomly selected number.
+> An interactive game where two players compete against each other to see who can guess a randomly
+  selected number.
 ```
 
 <br>
@@ -13,10 +14,10 @@
 <strong>Rules:</strong> The game is played by 2 players and consists of guessing a specific number that appears randomly from 1 to 10; <br>
 <strong>Chances:</strong> Players will have 3 chances; <br>
 <strong>Winning:</strong> There are four alternatives: <br>
-ㅤㅤㅤㅤㅤㅤㅤㅤ1) If the random number <strong>is the same as player 1 and 2</strong>, both will win; <br>
-ㅤㅤㅤㅤㅤㅤㅤㅤ2) If the random number <strong>is equal to that of player 1</strong>, player 1 will win the game and player 2 will lose; <br>
-ㅤㅤㅤㅤㅤㅤㅤㅤ3) If the random number <strong>is equal to that of player 2</strong>, player 2 will win the game and player 1 will lose; <br>
-ㅤㅤㅤㅤㅤㅤㅤㅤ4) If the random number <strong>is not equal to that of player 1 and 2</strong>, both will lose. <br>
+ㅤㅤㅤㅤㅤㅤㅤ1) If the random number <strong>is the same as player 1 and 2</strong>, both will win; <br>
+ㅤㅤㅤㅤㅤㅤㅤ2) If the random number <strong>is equal to that of player 1</strong>, player 1 will win the game and player 2 will lose; <br>
+ㅤㅤㅤㅤㅤㅤㅤ3) If the random number <strong>is equal to that of player 2</strong>, player 2 will win the game and player 1 will lose; <br>
+ㅤㅤㅤㅤㅤㅤㅤ4) If the random number <strong>is not equal to that of player 1 and 2</strong>, both will lose. <br>
 
 <br>
 
