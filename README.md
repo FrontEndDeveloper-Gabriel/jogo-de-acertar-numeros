@@ -1,20 +1,47 @@
-# CÓDIGO EM PYTHON - JOGO DE ACERTO
+# 1️⃣🔟 HIT GAME
 
-<h3>Introdução</h3> 
-Um jogo interativo onde 2 jogadores vão disputar um contra o outro para ver quem vai conseguir acertar um determinado número aleatoriamente.
+<br>
 
+## 📖 About
+```ascii
+> An interactive game where two players compete against each other to see who can guess a randomly selected number.
+```
 
-# <h3>Como funciona?</h3> 
-<strong>Manual:</strong> O jogo é disputado por 2 jogadores e consiste em acertar um determinado número que aparece de forma aleatória de 1 a 10; <br>
-<strong>Chances:</strong> Os jogadores terão 3 chances; <br>
-<strong>Vitória:</strong> Há quatro alternativas: <br>
-ㅤㅤㅤㅤㅤㅤㅤㅤ1) Caso o número aleatório <strong>seja igual a do jogador 1 e 2</strong>, ambos ganharão; <br>
-ㅤㅤㅤㅤㅤㅤㅤㅤ2) Caso o número aleatório <strong>seja igual a do jogador 1</strong>, este ganhará o jogo e o jogador 2 perderá; <br>
-ㅤㅤㅤㅤㅤㅤㅤㅤ3) Caso o número aleatório <strong>seja igual a do jogador 2</strong>, este ganhará o jogo e o jogador 1 perderá; <br>
-ㅤㅤㅤㅤㅤㅤㅤㅤ4) Caso o número aleatório <strong>não seja igual a do jogador 1 e 2</strong>, ambos perderão. <br>
+<br>
 
+## ❔ How it works
+<strong>Rules:</strong> The game is played by 2 players and consists of guessing a specific number that appears randomly from 1 to 10; <br>
+<strong>Chances:</strong> Players will have 3 chances; <br>
+<strong>Winning:</strong> There are four alternatives: <br>
+ㅤㅤㅤㅤㅤㅤㅤㅤ1) If the random number <strong>is the same as player 1 and 2</strong>, both will win; <br>
+ㅤㅤㅤㅤㅤㅤㅤㅤ2) If the random number <strong>is equal to that of player 1</strong>, player 1 will win the game and player 2 will lose; <br>
+ㅤㅤㅤㅤㅤㅤㅤㅤ3) If the random number <strong>is equal to that of player 2</strong>, player 2 will win the game and player 1 will lose; <br>
+ㅤㅤㅤㅤㅤㅤㅤㅤ4) If the random number <strong>is not equal to that of player 1 and 2</strong>, both will lose. <br>
 
-# <h4>Requisitos:
-● Ter um editor de texto na máquina; <br>
-● Ter o Visual Studio Code ou o IDLE Python instalado na máquina; <br>
-● Acessar o <strong><a href="https://colab.research.google.com/">Google Colab</a></strong> e executar em um novo notebook. </h4>
+<br>
+
+## 📌 Requeriments
+ ● Have a text editor on your computer; <br>
+ ● Have <strong><a href="https://code.visualstudio.com/download"> Visual Studio Code</a></strong> or <strong><a href="https://www.python.org/downloads/">IDLE Python</a></strong> installed on your computer; <br>
+ ● Access <strong><a href="https://colab.research.google.com/">Google Colab</a></strong> and run it in a new notebook.
+ 
+<br>
+
+## 🛠️ Tech Stack
+
+[![Stack](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+
+<br>
+
+---
+
+<div align = "center">
+<img src = "/give_a_star.png" width = "594" height = "168">
+</div>
+
+<br>
+
+<div align = "center">
+ Created by <a href = "https://github.com/FrontEndDeveloper-Gabriel/"> Gabriel Ribeiro</a> 👨‍💻
+</div>
+
